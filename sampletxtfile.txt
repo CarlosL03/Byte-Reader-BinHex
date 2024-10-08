@@ -1,0 +1,5 @@
+This is a sample text file to be read and printed by my xed program. 
+
+I love computer science! 
+
+Hello world, I am Carlos Lopez.
