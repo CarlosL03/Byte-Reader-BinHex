@@ -1,8 +1,7 @@
-CS530 Assignment 1
 Carlos Lopez
-cssc4002
+February 20, 2024
 
-This project includes my source code xed.cpp, my Makefile, and this README file. My xed.cpp was written using the CLion IDE. It was tested using a .txt file I wrote up. It was compiled using g++. 
+This project includes my source code xed.cpp, my Makefile, and this README file. My xed.cpp was written using the CLion IDE. It was tested using a .txt file I wrote up. It was compiled using g++ version 4.8.5.
 
 Compilation instruction:
 g++ xed.cpp -o xed
